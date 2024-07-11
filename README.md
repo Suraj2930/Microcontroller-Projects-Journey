@@ -10,12 +10,11 @@ Each project is designed to highlight specific skills and concepts in electronic
 
 |         Project Name        |                         Link                    |
 |-----------------------------|-------------------------------------------------|
-| [LED Blink]                 | [README](./LED_Blink/README.md)                 |
-| [LED control using switch]  | [README](./LED_control_using_switch/README.md)  |
-| [Using a Potentiometer]     | [README](./Using_a_Potentiometer/README.md)     |
-| [LED brightness control]    | [README](./LED_brightness_control/README.md)    |
-| [If-else statements]        | [README](./If-else_statements/README.md)        |
+| LED Blink                   | [README](./LED_Blink/README.md)                 |
+| LED control using switch    | [README](./LED_control_using_switch/README.md)  |
+| Using a Potentiometer       | [README](./Using_a_Potentiometer/README.md)     |
+| LED brightness control      | [README](./LED_brightness_control/README.md)    |
+| If-else statements          | [README](./If-else_statements/README.md)        |
 
-.
-..
-...
+
+## End
