@@ -1,6 +1,7 @@
 ### LED Control using switch
 
 <hr>
+
 Controlling an LED with a switch is a fundamental microcontroller project. 
 By using a simple push-button switch, you can directly control the state of an LED, 
 turning it on and off based on the switch's position. 
@@ -30,7 +31,7 @@ const int LedPin = 0;
 const int Button = 2 ;
 
 void setup() {
-  // put your setup code here, to rumconce
+  // put your setup code here, to run once
   pinMode(LedPin, OUTPUT);
   pinMode(Button, INPUT_PULLUP);
 }
