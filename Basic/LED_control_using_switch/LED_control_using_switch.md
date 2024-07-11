@@ -13,13 +13,13 @@ Mastering this skill sets the stage for more complex interactive projects and em
 - 1 x Led (any color)
 - 1 x Resistor (100 ohms)
 - 1 x switch
+  
 <br>
-
 <hr>
 
 ## Diagram
 
-<img src="./Files/LED_control_using_switch.jpg" width="650">
+<img src="./Files/LED_control_using_switch.jpg" width="400">
 <hr>
 
 ***ESP32 Code***
