@@ -18,7 +18,7 @@ Establishing this fundamental skill will provide a solid foundation for more com
 
 ## Diagram
 
-<img src="./Files/LED_Blink.jpg" width="650">
+<img src="./Files/LED_Blink.jpg" width="400">
 
 <hr>
 
