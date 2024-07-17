@@ -21,7 +21,7 @@ Each project is designed to highlight specific skills and concepts in electronic
         | 7.    | [While_loop](./Intermediate/While_loop/While_loop.md) |
     </div>
     <div style="flex: 1;">
-        <img src="./rdocs/Cover.jpg" alt="Cover Image" width = "400" height = "400"/>
+        <img src="./rdocs/Cover.jpg" alt="Cover Image" />
     </div>
 </div>
 
