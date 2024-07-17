@@ -8,9 +8,7 @@ Each project is designed to highlight specific skills and concepts in electronic
 
 ## Projects
 
-<div style="display: flex;">
-    <div style="flex: 1;">
-        | Sr.No.| Project Links |
+<img src="./rdocs/Cover.jpg" alt="Cover Image" />| Sr.No.| Project Links |
         |-------|---------------|
         | 1.    | [LED_Blink](./Basic/LED_Blink/LED_Blink.md) |
         | 2.    | [LED_control_using_switch](./Basic/LED_control_using_switch/LED_control_using_switch.md) |
@@ -19,10 +17,5 @@ Each project is designed to highlight specific skills and concepts in electronic
         | 5.    | [If-else_statements](./Intermediate/If-else_statements/If-else_statements.md) |
         | 6.    | [For_loop](./Intermediate/For_loop/For_loop.md) |
         | 7.    | [While_loop](./Intermediate/While_loop/While_loop.md) |
-    </div>
-    <div style="flex: 1;">
-        <img src="./rdocs/Cover.jpg" alt="Cover Image" />
-    </div>
-</div>
 
 ### End
