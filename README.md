@@ -8,7 +8,9 @@ Each project is designed to highlight specific skills and concepts in electronic
 
 ## Projects
 
-| Sr.No.| Project Links |<img src="./rdocs/Cover.jpg" alt="Cover Image" />
+<img src="./rdocs/Cover.jpg" alt="Cover Image" />
+
+| Sr.No.| Project Links |
 |-------|---------------|
 | 1.    | [LED_Blink](./Basic/LED_Blink/LED_Blink.md) |
 | 2.    | [LED_control_using_switch](./Basic/LED_control_using_switch/LED_control_using_switch.md) |
