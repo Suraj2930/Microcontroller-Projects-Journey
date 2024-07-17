@@ -50,7 +50,7 @@ Each project is designed to highlight specific skills and concepts in electronic
         </table>
     </div>
     <div style="flex: 1;">
-        <img src="./rdocs/Cover.jpg" style="max-width: 100%;">
+        <img src="./rdocs/Cover.jpg" style="max-width: 80%;">
     </div>
 </div>
 
