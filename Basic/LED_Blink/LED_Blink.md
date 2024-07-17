@@ -1,4 +1,4 @@
-### LED Blink Circuit using ESP32
+# LED Blink Circuit using ESP32
 
 <hr>
 
@@ -22,7 +22,7 @@ Establishing this fundamental skill will provide a solid foundation for more com
 
 <hr>
 
-***ESP32 Code***
+## ***ESP32 Code***
 
 ```cpp
 
