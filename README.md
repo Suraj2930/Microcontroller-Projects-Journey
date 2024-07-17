@@ -5,8 +5,7 @@
 This repository showcases a series of projects that demonstrate my journey from basic to advanced microcontroller applications. 
 Each project is designed to highlight specific skills and concepts in electronics and embedded systems, using a hands-on approach.
 
-<img align ="center" src="./rdocs/Cover.jpg" alt="Cover Image" width = "200" height = "100">
-<br>
+<img align ="center" src="./rdocs/Cover.jpg" alt="Cover Image" width = "400" height = "300">
 
 ## Projects
 
