@@ -9,7 +9,7 @@ Each project is designed to highlight specific skills and concepts in electronic
 ## Projects
 
 <div style="display: flex; align-items: center;">
-    <div style="flex: 1; margin-right: 20px;">
+    <div style="flex: 1; margin-right: 3px;">
         <table style="width: 100%;">
             <thead>
                 <tr>
