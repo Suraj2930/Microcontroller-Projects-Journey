@@ -8,11 +8,12 @@ Each project is designed to highlight specific skills and concepts in electronic
 
 ## Projects
 
-<div align="center">
-<div align="left">
+
+<div align="right">
 <img width = "400" height="300" src="./rdocs/Cover.jpg">
 </div>
-<div align="right">
+<br>
+<div align="left">
 | Sr.No.| Project Links |
 |-------|---------------|
 | 1.    | [LED_Blink](./Basic/LED_Blink/LED_Blink.md) |
@@ -23,5 +24,5 @@ Each project is designed to highlight specific skills and concepts in electronic
 | 6.    | [For_loop](./Intermediate/For_loop/For_loop.md) |
 | 7.    | [While_loop](./Intermediate/While_loop/While_loop.md) | 
 </div>
-</div>
+
 ### End
