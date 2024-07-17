@@ -8,13 +8,13 @@ Each project is designed to highlight specific skills and concepts in electronic
 
 ## Projects
 
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <table>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; margin-right: 20px;">
+        <table style="width: 100%;">
             <thead>
                 <tr>
-                    <th>Sr.No.</th>
-                    <th>Project Links</th>
+                    <th style="text-align: left;">Sr.No.</th>
+                    <th style="text-align: left;">Project Links</th>
                 </tr>
             </thead>
             <tbody>
@@ -50,7 +50,7 @@ Each project is designed to highlight specific skills and concepts in electronic
         </table>
     </div>
     <div style="flex: 1;">
-        <img src="./rdocs/Cover.jpg" style="max-width: 80%;">
+        <img src="./rdocs/Cover.jpg" alt="Cover Image" style="max-width: 100%;">
     </div>
 </div>
 
