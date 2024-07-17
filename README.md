@@ -8,21 +8,50 @@ Each project is designed to highlight specific skills and concepts in electronic
 
 ## Projects
 
-
-<div align="right">
-<img width = "400" height="300" src="./rdocs/Cover.jpg">
-</div>
-<br>
-<div align="left">
-| Sr.No.| Project Links |
-|-------|---------------|
-| 1.    | [LED_Blink](./Basic/LED_Blink/LED_Blink.md) |
-| 2.    | [LED_control_using_switch](./Basic/LED_control_using_switch/LED_control_using_switch.md) |
-| 3.    | [Using_a_Potentiometer](./Basic/Using_a_Potentiometer/Using_a_Potentiometer.md) |
-| 4.    | [LED_brightness_control](./Basic/LED_brightness_control/LED_brightness_control.md) |
-| 5.    | [If-else_statements](./Intermediate/If-else_statements/If-else_statements.md) |
-| 6.    | [For_loop](./Intermediate/For_loop/For_loop.md) |
-| 7.    | [While_loop](./Intermediate/While_loop/While_loop.md) | 
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <table>
+            <thead>
+                <tr>
+                    <th>Sr.No.</th>
+                    <th>Project Links</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1.</td>
+                    <td><a href="./Basic/LED_Blink/LED_Blink.md">LED_Blink</a></td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td><a href="./Basic/LED_control_using_switch/LED_control_using_switch.md">LED_control_using_switch</a></td>
+                </tr>
+                <tr>
+                    <td>3.</td>
+                    <td><a href="./Basic/Using_a_Potentiometer/Using_a_Potentiometer.md">Using_a_Potentiometer</a></td>
+                </tr>
+                <tr>
+                    <td>4.</td>
+                    <td><a href="./Basic/LED_brightness_control/LED_brightness_control.md">LED_brightness_control</a></td>
+                </tr>
+                <tr>
+                    <td>5.</td>
+                    <td><a href="./Intermediate/If-else_statements/If-else_statements.md">If-else_statements</a></td>
+                </tr>
+                <tr>
+                    <td>6.</td>
+                    <td><a href="./Intermediate/For_loop/For_loop.md">For_loop</a></td>
+                </tr>
+                <tr>
+                    <td>7.</td>
+                    <td><a href="./Intermediate/While_loop/While_loop.md">While_loop</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div style="flex: 1;">
+        <img src="./rdocs/Cover.jpg" style="max-width: 100%;">
+    </div>
 </div>
 
 ### End
