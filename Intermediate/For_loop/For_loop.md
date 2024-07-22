@@ -33,13 +33,13 @@ for (int i = 2; // Initialization: int i is set to 0
 - Condition: `i <= 8` runs the loop while i is less than or equal to 8.
 - Increment: `i++` increases i by 1 each time the loop runs.
 
+----
 
 ## Components Required:
 
 - 1 x Arduino Uno
 - 7 x Leds (any color) 
   
-<br>
 ----
 
 ## **Diagram**
