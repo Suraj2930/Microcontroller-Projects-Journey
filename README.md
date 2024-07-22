@@ -63,8 +63,8 @@ You are now ready to start learning and building with microcontrollers!
 
 |***No.***|***Name***|*|
 |:---:|:----|:---:|
-|1. |[LED_Blink](./Basic/LED_Blink/LED_Blink.md)|<img width="10" height="10" src="./Docs/Content_Images/led_blink.jpg">|
-|2. |[LED_control_using_switch](./Basic/LED_control_using_switch/LED_control_using_switch.md)||
+|1. |[LED_Blink](./Basic/LED_Blink/LED_Blink.md)|<img width="12" height="12" src="./Docs/Content_Images/led_blink.gif">|
+|2. |[LED_control_using_switch](./Basic/LED_control_using_switch/LED_control_using_switch.md)|<img width="18" height="12" src="./Docs/Content_Images/push_button.gif">|
 |3. |[Using_a_Potentiometer](./Basic/Using_a_Potentiometer/Using_a_Potentiometer.md)||
 |4. |[LED_brightness_control](./Basic/LED_brightness_control/LED_brightness_control.md)||
 |5. |[If-else_statements](./Intermediate/If-else_statements/If-else_statements.md)||
