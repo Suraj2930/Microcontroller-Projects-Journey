@@ -1,7 +1,5 @@
 # Using For Loop
 
-<hr>
-
 A for loop is a control flow statement for specifying iteration, which allows code to be executed repeatedly. 
 It is particularly useful when the number of iterations is known before entering the loop.
 
@@ -10,7 +8,7 @@ The loop consists of three main components: `initialization`, `condition`, and `
 - **Initialization:** Sets the starting point.
 - **Condition:** Defines the loop's end condition.
 - **Increment/Decrement:** Modifies the loop variable each iteration.
-
+----
 ```cpp
 
 //syntax
@@ -42,13 +40,11 @@ for (int i = 2; // Initialization: int i is set to 0
 - 7 x Leds (any color) 
   
 <br>
-<hr>
+----
 
-## Diagram
+## **Diagram**
 
-<img align = "right" width="400" height="400" src="./Files/For_loop_demo.gif">
-
-<hr>
+<img align = "right" width="300" height="300" src="./Files/For_loop_demo.gif">
 
 ## ***Arduino Code***
 
