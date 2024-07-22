@@ -47,7 +47,6 @@ for (int i = 2; // Initialization: int i is set to 0
 ## Diagram
 
 <img align = "right" width="400" height="400" src="./Files/For_loop_demo.gif">
-<img align = "left" width="400" height="400" src="./Files/For_loop.jpg">
 
 <hr>
 
