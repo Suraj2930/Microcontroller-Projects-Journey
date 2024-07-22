@@ -63,10 +63,10 @@ You are now ready to start learning and building with microcontrollers!
 
 |***No.***|***Name***|
 |:---:|:----|
-|1. |[LED_Blink](./learning_tutorials/Basic/LED_Blink/LED_Blink.md)|
-|2. |[LED_control_using_switch](./learning_tutorials/Basic/LED_control_using_switch/LED_control_using_switch.md)|
-|3. |[Using_a_Potentiometer](./learning_tutorials/Basic/Using_a_Potentiometer/Using_a_Potentiometer.md)|
-|4. |[LED_brightness_control](./learning_tutorials/Basic/LED_brightness_control/LED_brightness_control.md)|
-|5. |[If-else_statements](./learning_tutorials/Intermediate/If-else_statements/If-else_statements.md)|
-|6. |[For_loop](./learning_tutorials/Intermediate/For_loop/For_loop.md)|
-|7. |[While_loop](./learning_tutorials/Intermediate/While_loop/While_loop.md)|
+|1. |[LED_Blink](./Basic/LED_Blink/LED_Blink.md)|
+|2. |[LED_control_using_switch](./Basic/LED_control_using_switch/LED_control_using_switch.md)|
+|3. |[Using_a_Potentiometer](./Basic/Using_a_Potentiometer/Using_a_Potentiometer.md)|
+|4. |[LED_brightness_control](./Basic/LED_brightness_control/LED_brightness_control.md)|
+|5. |[If-else_statements](./Intermediate/If-else_statements/If-else_statements.md)|
+|6. |[For_loop](./Intermediate/For_loop/For_loop.md)|
+|7. |[While_loop](./Intermediate/While_loop/While_loop.md)|
