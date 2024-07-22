@@ -44,7 +44,7 @@ for (int i = 2; // Initialization: int i is set to 0
 
 ## **Diagram**
 
-<img align = "right" width="300" height="300" src="./Files/For_loop_demo.gif">
+<img width="300" height="300" src="./Files/For_loop_demo.gif">
 
 ## ***Arduino Code***
 
