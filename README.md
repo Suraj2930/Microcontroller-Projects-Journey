@@ -1,8 +1,8 @@
-# Microcontroller Projects Journey     <img align="right" width="30" height="30" src="./Docs/Content_Images/arduino-icon.jpg">
+# Microcontroller Projects Journey     
 
 ***Welcome to my Microcontroller Projects Journey repository!***
 
-<img align = "right" width="200" height="150" src="./Docs/Content_Images/Cover.jpg">
+<img align = "right" width="200" height="150" src="./docs/images/Cover.jpg">
 
 ----
 
@@ -39,7 +39,7 @@ electronics and embedded systems, using a hands-on approach.
 
 ## Software
 
-- Arduino IDE: [Download](https://www.arduino.cc/en/software)
+- Arduino IDE : <a href="https://www.arduino.cc/en/software"><img border="0" alt="arduino_logo" src="./docs/images/arduino-icon.jpg" width="30" height="30"> Download </a>
 
 ## Basic Knowledge
 
@@ -59,14 +59,20 @@ You are now ready to start learning and building with microcontrollers!
 
 ----
 
+<div align="justify"> 
+
 ### ***Project Links***
 
 |***No.***|***Name***|*|
 |:---:|:----|:---:|
-|1. |[LED_Blink](./Basic/LED_Blink/LED_Blink.md)|<img width="20" height="20" src="./Docs/Content_Images/led_blink.gif">|
-|2. |[LED_control_using_switch](./Basic/LED_control_using_switch/LED_control_using_switch.md)|<img width="50" height="30" src="./Docs/Content_Images/push_button.gif">|
-|3. |[Using_a_Potentiometer](./Basic/Using_a_Potentiometer/Using_a_Potentiometer.md)||
-|4. |[LED_brightness_control](./Basic/LED_brightness_control/LED_brightness_control.md)||
+|1. |[LED_Blink](./Basic/LED_Blink/LED_Blink.md)|<img width="20" height="20" src="./docs/gifs/led_blink.gif">|
+|2. |[LED_control_using_switch](./Basic/LED_control_using_switch/LED_control_using_switch.md)|<img width="60" height="30" src="./docs/gifs/push_button.gif">|
+|3. |[Using_a_Potentiometer](./Basic/Using_a_Potentiometer/Using_a_Potentiometer.md)|<img width="30" height="30" src="./docs/gifs/potentiometer.gif">|
+|4. |[LED_brightness_control](./Basic/LED_brightness_control/LED_brightness_control.md)|<img width="60" height="30" src="./docs/gifs/PWM.gif">|
 |5. |[If-else_statements](./Intermediate/If-else_statements/If-else_statements.md)||
 |6. |[For_loop](./Intermediate/For_loop/For_loop.md)||
 |7. |[While_loop](./Intermediate/While_loop/While_loop.md)||
+
+</div>
+
+-----
