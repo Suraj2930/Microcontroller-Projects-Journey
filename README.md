@@ -49,4 +49,3 @@ industrial alarms, and smart home automation systems.
 
 Feel free to explore my repositories and projects. 
 Let's build something amazing together!
-
