@@ -1,51 +1,78 @@
-# Hello, I'm Suraj Yadav
+# Microcontroller Projects Journey     
 
-**Electronics and Telecommunication Engineer | Embedded Systems Enthusiast**
-<div align="justify"> 
-Welcome to my GitHub profile! I am passionate about embedded systems, IoT, and automation. 
-I have hands-on experience in designing and developing innovative projects, including remote-controlled rovers, 
-industrial alarms, and smart home automation systems.
-</div>
+***Welcome to my Microcontroller Projects Journey repository!***
+
+<img align = "right" width="200" height="150" src="./docs/images/Cover.jpg">
 
 ----
 
-### Education
-- **Bachelor of Engineering in Electronics and Telecommunication** (Mumbai University)
-----
 <div align="justify"> 
   
-### Skills
-- **PCB Design:** Proficient in designing and manufacturing PCBs using various tools and techniques.
-- **Microcontroller Programming:** Experienced with Arduino IDE, C/C++, and integrating various sensors and modules.
-- **IoT and Automation:** Skilled in developing IoT solutions using Wi-Fi and Bluetooth for home automation and other applications.
-- **Real-Time System Integration:** Expertise in integrating hardware and software for real-time applications.
+This repository showcases a series of projects that 
+demonstrate my journey from basic to advanced microcontroller applications. 
+Each project is designed to highlight specific skills and concepts in 
+electronics and embedded systems, using a hands-on approach. 
+
 </div>
 
 ----
+
 <div align="justify"> 
 
-### Projects
-- **Remote-Controlled Rover:** Developed a rover using microcontrollers and various sensors for remote operation.
-- **Industrial Alarm System:** Designed and implemented an alarm system for industrial applications.
-- **Smart Home Automation:** Created a home automation system using IoT technologies for enhanced control and efficiency.
+## Getting Started
+
+1. **Read the [Pre-requisites](#Pre-requisites)**: Familiarize yourself with the basic requirements and tools needed.
+2. **Follow the Basic Tutorials**: Understand fundamental concepts and coding practices.
+3. **Try the Projects**: Apply what you've learned by building simple projects.
+
+----
+
+# Pre-requisites
+
+## Hardware
+
+- A microcontroller board (e.g., Arduino Uno, Esp32)
+- USB cable for programming the board
+- Breadboard
+- Jumper wires
+- Basic electronic components (LEDs, resistors, sensors)
+
+## Software
+
+- Arduino IDE : <a href="https://www.arduino.cc/en/software"><img border="0" alt="arduino_logo" src="./docs/images/arduino-icon.jpg" width="30" height="30"> Download </a>
+
+## Basic Knowledge
+
+- Basic understanding of electronics
+- Familiarity with programming concepts (variables, loops, conditions)
+
+## Setting Up
+
+1. **Install Arduino IDE**: Follow the instructions on the Arduino website.
+2. **Connect the Board**: Use the USB cable to connect your microcontroller to your computer.
+3. **Open Arduino IDE**: Launch the software and select your board and port under the `Tools` menu.
+4. **Upload a Sketch**: Try uploading the "Blink" example sketch to ensure everything is set up correctly.
+
+You are now ready to start learning and building with microcontrollers!
+
 </div>
 
 ----
 
-<div align="center"> 
-  
-### GitHub Stats ![Visitor Count](https://komarev.com/ghpvc/?username=Suraj2930&color=blue&style=for-the-badge) 
+<div align="justify"> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj2930&show_icons=true&theme=shadow_blue&border_radius=10&rank_icon=percentile&custom_title=Stats&line_height=23)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Suraj2930&theme=shadow-blue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=180)](https://git.io/streak-stats)
-![Suraj's GitHub rank](https://github-readme-stats.vercel.app/api?username=Suraj2930&hide=contribs,prs,stars,commits,issues&theme=shadow_blue&border_radius=10&custom_title=Suraj's%20Rank)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj2930&langs_count=10&theme=shadow_blue&border_radius=10&layout=compact&custom_title=languages-used)
+### ***Project Links***
+
+|***No.***|***Name***|*|
+|:---:|:----|:---:|
+|1. |[LED_Blink](./Basic/LED_Blink/LED_Blink.md)|<img width="30" height="30" src="./docs/gifs/led_blink.gif">|
+|2. |[LED_control_using_switch](./Basic/LED_control_using_switch/LED_control_using_switch.md)|<img width="80" height="40" src="./docs/gifs/push_button.gif">|
+|3. |[Using_a_Potentiometer](./Basic/Using_a_Potentiometer/Using_a_Potentiometer.md)|<img width="80" height="80" src="./docs/gifs/potentiometer.gif">|
+|4. |[LED_brightness_control](./Basic/LED_brightness_control/LED_brightness_control.md)|<img width="60" height="40" src="./docs/gifs/PWM.gif">|
+|5. |[If-else_statements](./Intermediate/If-else_statements/If-else_statements.md)||
+|6. |[For_loop](./Intermediate/For_loop/For_loop.md)||
+|7. |[While_loop](./Intermediate/While_loop/While_loop.md)||
 
 </div>
 
-----
-
-### Connect with Me :  [<img width="30" height="30" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png">](https://www.linkedin.com/in/suraj-yadav-63b17522b/)  [<img width="30" height="30" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png">](mailto:surajya2123@gmail.com)
-
-Feel free to explore my repositories and projects. 
-Let's build something amazing together!
+-----
