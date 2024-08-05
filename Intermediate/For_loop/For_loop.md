@@ -1,5 +1,7 @@
 # Using For Loop
 
+<div align ="justify">
+
 A for loop is a control flow statement for specifying iteration, which allows code to be executed repeatedly. 
 It is particularly useful when the number of iterations is known before entering the loop.
 
@@ -34,6 +36,8 @@ for (int i = 2; // Initialization: int i is set to 0
 - Increment: `i++` increases i by 1 each time the loop runs.
 
 ----
+
+</div>
 
 ## Components Required:
 
