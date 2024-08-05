@@ -2,9 +2,13 @@
 
 <hr>
 
+<div align ="justify">
+
 Controlling the brightness of an LED with a potentiometer is an essential microcontroller project that teaches analog input handling. 
 By varying the resistance of the potentiometer, you can adjust the voltage and thus control the LED's brightness. 
 This project demonstrates the use of analog-to-digital conversion (ADC) to read the potentiometer's position and pulse-width modulation (PWM) to adjust the LED's brightness. Understanding these concepts is crucial for projects involving variable input and output controls in embedded systems.
+
+</div>
 
 ## Components Required:
 - 1 x ESP32 Board
