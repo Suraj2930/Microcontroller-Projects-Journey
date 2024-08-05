@@ -1,11 +1,14 @@
 # LED Control using switch
 
 <hr>
+<div align ="justify">
 
 Controlling an LED with a switch is a fundamental microcontroller project. 
 By using a simple push-button switch, you can directly control the state of an LED, turning it on and off based on the switch's position. 
 This project introduces the basics of digital input and output, 
 providing a hands-on understanding of how microcontrollers interact with external components. 
+
+</div>
 
 ## Components Required:
 - 1 x ESP32 Board
