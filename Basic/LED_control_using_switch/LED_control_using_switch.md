@@ -16,7 +16,6 @@ providing a hands-on understanding of how microcontrollers interact with externa
 - 1 x Resistor (100 ohms)
 - 1 x switch
   
-<br>
 <hr>
 
 ## Diagram
