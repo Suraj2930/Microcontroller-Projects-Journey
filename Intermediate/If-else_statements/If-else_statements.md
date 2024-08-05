@@ -18,7 +18,6 @@ This project helps understand how to make decisions in code based on input condi
 - 1 x Led (BLUE)
 - 1 x Potentiometer
   
-<br>
 <hr>
 
 ## Diagram
