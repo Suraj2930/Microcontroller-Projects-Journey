@@ -1,11 +1,14 @@
 # LED Blink Circuit using ESP32
 
-<hr>
+
+<div align ="justify">
 
 LEDs are small, powerful lights found in many applications. 
 Blinking an LED is the "Hello World" of microcontrollers. 
 It's as simple as turning a light switch on and off. 
 Establishing this fundamental skill will provide a solid foundation for more complex experiments.
+
+</div>
 
 ## Components Required:
 
@@ -14,7 +17,6 @@ Establishing this fundamental skill will provide a solid foundation for more com
 - 1 x Resistor (100 ohms)
   
 <br>
-<hr>
 
 ## Diagram
 
