@@ -2,10 +2,13 @@
 
 <hr>
 
+<div align ="justify">
+
 This project demonstrates the use of if-else statements to control three LEDs based on the value read from a sensor (potentiometer in this case). 
 The sensor-value is mapped to a speed range, and the LEDs are turned on or off depending on the speed. 
 This project helps understand how to make decisions in code based on input conditions, allowing for dynamic and responsive behavior in embedded systems.
 
+</div>
 
 ## Components Required:
 
