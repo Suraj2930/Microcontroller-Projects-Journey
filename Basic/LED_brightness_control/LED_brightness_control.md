@@ -15,7 +15,6 @@ This project demonstrates the use of analog-to-digital conversion (ADC) to read 
 - 1 x Led (any color)
 - 1 x Potentiometer
   
-<br>
 <hr>
 
 ## Diagram
