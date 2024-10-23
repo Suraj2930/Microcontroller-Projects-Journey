@@ -18,15 +18,12 @@ Establishing this fundamental skill will provide a solid foundation for more com
   
 <br>
 
-## Diagram
+## Diagram & ESP32 Code
 
-<img src="./Files/LED_Blink.jpg" width="400">
-
-<hr>
-
-## ***ESP32 Code***
+<img src="./Files/LED_Blink.jpg" width="450" height = "400" align = "left">
 
 ```cpp
+
 
 const int LedPin = 0;
 
@@ -42,5 +39,7 @@ void loop() {
   digitalWrite(LedPin, LOW);
   delay(1000);
 }
+
+
 
 ```

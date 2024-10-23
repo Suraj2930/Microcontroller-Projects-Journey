@@ -15,12 +15,9 @@ Understanding how to read and interpret analog values is crucial for projects in
   
 <hr>
 
-## Diagram
+## Diagram & ESP32 Code
 
-<img src="./Files/Using_a_Potentiometer.jpg" width="400">
-<hr>
-
-## ***ESP32 Code***
+<img src="./Files/Using_a_Potentiometer.jpg" width="450" height = "380" align = "left">
 
 ```cpp
 

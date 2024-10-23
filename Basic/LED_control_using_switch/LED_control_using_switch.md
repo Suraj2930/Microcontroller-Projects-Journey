@@ -18,15 +18,11 @@ providing a hands-on understanding of how microcontrollers interact with externa
   
 <hr>
 
-## Diagram
+## Diagram & ESP32 Code
 
-<img src="./Files/LED_control_using_switch.jpg" width="400">
-<hr>
-
-## ***ESP32 Code***
+<img src="./Files/LED_control_using_switch.jpg" width="450" height = "360" align = "left">
 
 ```cpp
-
 const int LedPin = 0;
 const int Button = 2 ;
 
@@ -44,5 +40,4 @@ void loop() {
     digitalWrite(LedPin, HIGH);
   }
 }
-
 ```

@@ -17,15 +17,11 @@ This project demonstrates the use of analog-to-digital conversion (ADC) to read 
   
 <hr>
 
-## Diagram
+## Diagram & ESP32 Code
 
-<img src="./Files/LED_brightness_control.jpg" width="400">
-<hr>
-
-## ***ESP32 Code***
+<img src="./Files/LED_brightness_control.jpg" width="450" height = "400" align = "left">
 
 ```cpp
-
 const int potPin = 34;
 const int LedPin = 16;
 int Brightness = 0;
@@ -45,5 +41,4 @@ void loop() {
   Serial.println(map(Brightness, 0, 4095, 0, 100));
   delay(500);
 }
-
 ```
